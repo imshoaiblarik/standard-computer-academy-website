@@ -1,0 +1,132 @@
+/* General Reset */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Navbar styling */
+nav {
+  background-color: #5b5b6b;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  font-size: 1.6rem;
+}
+
+.logo img {
+  height: 50px;
+  margin-right: 10px;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.enroll-btn {
+  background-color: #facc15;
+  color: #1e3a8a;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* Hero Section */
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  padding: 4rem 2rem;
+  background-color: #f1f5f9;
+  flex-wrap: wrap;
+}
+
+.hero-text {
+  max-width: 500px;
+}
+
+.hero-img img {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 10px;
+}
+
+/* Section Titles */
+section h2 {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  margin-top: 3rem;
+}
+
+/* About and Contact Section */
+#about, #contact {
+  padding: 2rem;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+/* Courses Section */
+.courses {
+  padding: 2rem;
+  background-color: #e0f2fe;
+  text-align: center;
+}
+
+.course-cards {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+
+.card {
+  background-color: white;
+  border-radius: 10px;
+  padding: 1rem;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  width: 250px;
+}
+
+/* Testimonial */
+.testimonial {
+  background-color: #fef3c7;
+  padding: 2rem;
+  text-align: center;
+}
+
+.testimonial img {
+  width: 90px;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+
+/* Footer */
+footer {
+  background-color: #1e3a8a;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
