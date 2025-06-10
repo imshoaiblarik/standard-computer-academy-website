@@ -1,4 +1,4 @@
-# standard-computer-academy-website
+
 # The Standard Computer Academy – Website
 
 This is a responsive educational website designed and developed using **HTML, CSS, and JavaScript** for The Standard Computer Academy, Pir Jo Goth.
