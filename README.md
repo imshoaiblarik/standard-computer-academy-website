@@ -1,9 +1,6 @@
 
 # The Standard Computer Academy – Website
 
-This is a responsive educational website designed and developed using **HTML, CSS, and JavaScript** for The Standard Computer Academy, Pir Jo Goth.![Screenshot (64)](https://github.com/user-attachments/assets/1070eb08-0456-4cfe-bca1-b77768ba3ba5)
-
-
 ## 📚 Courses Offered
 
 - OAT – Office Automation Tools  
@@ -34,4 +31,5 @@ This is a responsive educational website designed and developed using **HTML, CS
 ## 🧑‍💻 Developer Note
 
 This website is for demonstration and educational purposes. Hosting options include GitHub Pages or any free static hosting provider.
+This is a responsive educational website designed and developed using **HTML, CSS, and JavaScript** for The Standard Computer Academy, Pir Jo Goth.![Screenshot (64)](https://github.com/user-attachments/assets/1070eb08-0456-4cfe-bca1-b77768ba3ba5)
 
